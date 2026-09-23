@@ -1,6 +1,6 @@
 import hashlib
 import time
-
+    
 
 class Block:
     def __init__(self, index, vote, previous_hash):
